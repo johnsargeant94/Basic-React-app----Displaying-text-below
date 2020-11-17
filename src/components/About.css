@@ -1,0 +1,8 @@
+.aboutContainer {
+    background-color: palegreen;
+    height: 100vh;
+}
+
+.aboutContainer h1{
+    margin-top: 0;
+}
